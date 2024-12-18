@@ -1,2 +1,2 @@
 # repos10
-Cloning
+Praktik remote branch
